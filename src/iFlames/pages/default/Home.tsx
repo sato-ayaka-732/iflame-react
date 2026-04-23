@@ -4,7 +4,7 @@ import viteLogo from "../../../assets/vite.svg";
 import heroImg from "../../../assets/hero.png";
 import './Home.css'
 
-function App() {
+function Home() {
   const [count, setCount] = useState(0)
 
   return (
@@ -119,4 +119,4 @@ function App() {
   )
 }
 
-export default App
+export default Home
